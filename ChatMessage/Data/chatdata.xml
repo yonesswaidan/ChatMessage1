@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+	<happy>
+		<message>Hey there!</message>
+		<message>Hello! How can I make your day even brighter today?</message>
+		<message>I just got some fantastic news!</message>
+		<message>That's amazing! Share the good news with me. I'd love to celebrate with you!</message>
+		<message>Spent the day with friends, and it was so much fun!</message>
+		<message>Friends and fun are the perfect combo! Tell me more about your awesome day.</message>
+		<message>I received a surprise gift today!</message>
+		<message>Surprises are the best! What was the gift, and who gave it to you?</message>
+		<message>Just finished a delicious homemade meal!</message>
+		<message>Yum! What did you have? Homemade meals are the best kind of comfort.</message>
+	</happy>
+	<angry>
+		<message>I can't believe this! It's so frustrating!</message>
+		<message>Why does everything have to go wrong today?</message>
+		<message>This is making me so mad!</message>
+		<message>I'm really upset about what happened.</message>
+		<message>I can't even handle this anymore.</message>
+		<message>It's so irritating!</message>
+		<message>I'm seething with anger right now.</message>
+		<message>I've had enough of this nonsense!</message>
+		<message>I'm furious!</message>
+		<message>This situation is just ridiculous.</message>
+	</angry>
+	<neutral>
+		<message>Just another day in the office.</message>
+		<message>Nothing special happening today.</message>
+		<message>It's a typical Monday morning.</message>
+		<message>The weather is neither good nor bad.</message>
+		<message>I'm feeling neither happy nor sad right now.</message>
+		<message>There's nothing exciting to report.</message>
+		<message>I'm in a neutral state of mind.</message>
+		<message>It's a regular day.</message>
+		<message>I'm just going about my usual routine.</message>
+		<message>Nothing out of the ordinary.</message>
+	</neutral>
+</messages>

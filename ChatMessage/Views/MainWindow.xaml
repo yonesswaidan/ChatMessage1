@@ -1,0 +1,16 @@
+﻿<Window x:Class="ChatMessageManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat Message Manager" Height="500" Width="800">
+    <Grid>
+        <ListView Name="ChatMessagesListView" Margin="10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Sentiment" Width="100" DisplayMemberBinding="{Binding Sentiment}" />
+                    <GridViewColumn Header="Message" Width="600" DisplayMemberBinding="{Binding Text}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
+
