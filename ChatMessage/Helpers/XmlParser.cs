@@ -1,3 +1,4 @@
+// Den bruges til at læse en XML-fil med chatbeskeder.
 using System;
 using System.Collections.Generic;
 using System.Xml.Linq;
@@ -54,4 +55,5 @@ namespace ChatMessageManager.Helpers
         }
     }
 }
+
 
